@@ -18,7 +18,6 @@ export function App() {
   return (
     //Div que engloba toda página ocupando a tela inteira com display flex column
     <div className="min-h-screen flex flex-col">
-      //Divisão que engloba o header da aplicação 
       <div className="px-6 py-3 flex items-center justify-between border-b">
         <h1 className="text-xl font-bold">upload.ai</h1>
         <div className="flex items-center gap-3">
