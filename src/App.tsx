@@ -1,9 +1,16 @@
+//importação de ícones
 import { FileVideo, Github, Upload, Wand2 } from "lucide-react"
+//importação de botão 
 import { Button } from "./components/ui/button"
+//importação de separador de componentes
 import { Separator } from "./components/ui/separator"
+//importação de componente de área de texto
 import { Textarea } from "./components/ui/textarea"
+//importação de caixa de texto 
 import { Label } from "./components/ui/label"
+//importação de componente de seleção de ações 
 import { SelectTrigger,Select, SelectValue, SelectContent, SelectItem } from "./components/ui/select"
+//importação de componente de regulagem slider
 import { Slider } from "./components/ui/slider"
 
 
